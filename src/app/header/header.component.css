@@ -1,0 +1,14 @@
+.primary
+{
+    background-color: rgb(99, 122, 57);
+}
+.col-b
+{
+    color:whitesmoke;
+    margin-left: 17em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+
+}
